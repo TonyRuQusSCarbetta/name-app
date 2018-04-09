@@ -1,7 +1,7 @@
 //variables asking for names and age, than storing the input
 var firstName = prompt ("What is your first name?");
 var lastName = prompt ("What is your last name?");
-var age = prompt ("What old are you? (Years)");
+var age = prompt ("How old are you? (Years)");
 
 //variables storing age in months/days
 var months = age * 12;
